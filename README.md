@@ -1,5 +1,5 @@
 # c#-Microsoft-certificate completed
-
+....,...............................
 While working through the C# certification course with FreeCodeCamp, I completed a variety of small projects that have helped me gradually build a solid understanding of the language.
 The projects themselves are not particularly advanced or complex, as I’m still new to C#. However, they’ve been incredibly rewarding and have given me a sense of progress and achievement as I learn. 
 
